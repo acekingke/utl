@@ -6,6 +6,7 @@ git config --global user.email "YOUR EMAIL ADDRESS"
 * windows 下
 goagent的设置
 `set https-proxy="https://127.0.0.1:8087/"`
+
 ## 初始化
 git init
 添加内容
