@@ -8,9 +8,9 @@
 * [6. jquery遍历][6]
 
 
-[1]: jquerylearner.html
-[2]: jqueryselect.html
-[3]: jqevent.html
-[4]: jqeffect.html
-[5]: jqhtml.html
-[6]: jQtrans.html
+[1]: jquerylearner.md
+[2]: jqueryselect.md
+[3]: jqevent.md
+[4]: jqeffect.md
+[5]: jqhtml.md
+[6]: jQtrans.md
